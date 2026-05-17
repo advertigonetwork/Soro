@@ -1,3 +1,3 @@
 # Soro
-PHP Soro sitemap generator ( https://trysoro.com/ )
-Created by Advertigo.net team
+PHP Soro ( trysoro.com ) sitemap generator
+Created by Advertigo.net team ( https://www.advertigo.net/ )
