@@ -1,0 +1,2 @@
+# Soro
+Soro sitemap generator
